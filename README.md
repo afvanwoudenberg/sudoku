@@ -1,6 +1,6 @@
 # Sudoku solver
 
-It’s pretty straightforward to make a Sudoku solver in Prolog when applying CLP ([Constraint Logic Programming](https://en.wikipedia.org/wiki/Constraint_logic_programming)).
+A Sudoku solver in Prolog using CLP ([Constraint Logic Programming](https://en.wikipedia.org/wiki/Constraint_logic_programming)).
 
 Open `sudoku.pl` in your favorite Prolog environment and type:
 
